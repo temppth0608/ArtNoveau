@@ -1,0 +1,47 @@
+@CHARSET "UTF-8";
+
+.main_image {
+	text-align:center;
+}
+
+.face {
+	float:left;
+	border-right: 1px solid gray;
+	margin:10px;
+}
+
+.thismonth {
+	float:center;
+}
+
+.jacga1 {
+	float:left;
+	margin:5px;
+}
+
+.jacga2 {
+	float:right;
+	margin:5px;
+}
+
+.choi {
+	float:center;
+	margin:5px
+}
+
+.kimi {
+	text-align:center;	
+}
+
+.pause {
+	float:left;
+	margin:8px;
+}
+
+.pause_explane {
+	float:center;
+}
+
+.thank_message {
+	text-align:center;	
+}
